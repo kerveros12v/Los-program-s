@@ -3,3 +3,12 @@ Nombre del Equipo :     Los Program’s
 Gabriel Fernando Vinueza Pozo       Numero 1
 Josué Jiménez                       Numero 2
 Kevin Franco                        Numero 3
+
+
+Gustos
+Numero 1
+	Animes 
+	Computadoras
+	Programacion 
+	Diseño de Juegos
+	Peliculas de Ciencia ficcion
