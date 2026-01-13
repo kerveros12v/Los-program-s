@@ -10,5 +10,5 @@ Numero 1
 	Animes 
 	Computadoras
 	Programacion 
-	Diseño de Juegos
+	Diseño de Juegos 
 	Peliculas de Ciencia ficcion
