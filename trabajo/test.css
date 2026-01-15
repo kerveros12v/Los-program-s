@@ -1,0 +1,40 @@
+.boton{
+    /*background-color: blue;*/
+    font-size: 20px;
+    color:beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:25px ;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+    background-color:rgb(20, 136, 165);
+}
+
+.caja{
+    background-color: rgb(195, 230, 218);
+    font-size: 25px;
+    color:rgb(5, 117, 245);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:10px ;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding-left:20px ;
+    align-self: center;
+}
+
+.etiqueta{
+    /*background-color: blue;*/
+    font-size: 45px;
+    color:rgb(16, 170, 132);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:10px ;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding-left:30px ;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
